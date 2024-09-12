@@ -10,3 +10,7 @@ State Management: Handle UI state changes seamlessly with Jetpack Compose and re
 🛠️ Tech Stack
 Jetpack Compose: Modern UI toolkit for building native Android interfaces.
 Kotlin Coroutines: For handling asynchronous tasks.
+
+📱 Video
+https://github.com/user-attachments/assets/cd9e9916-a27c-4abb-96e9-77aa7640a060
+
